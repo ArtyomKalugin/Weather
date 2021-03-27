@@ -1,0 +1,12 @@
+BASEL
+
+Average temperature: 4.0
+Average humidity: 71.0
+Average wind speed: 18.0
+
+The most high temperature: 11.710529 2021.03.13 at 14:00
+The most low temperature: -2.1894715 2021.03.20 at 07:00
+The most strong wind: 19.85556 2021.03.20 at 17:00
+The most low humidity: 55.0 2021.03.13 at 16:00
+
+Most frequent wind direction: West, 79
